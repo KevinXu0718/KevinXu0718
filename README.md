@@ -1,48 +1,63 @@
+<div align="center">Hi, I'm Kevin Xu 👋
+<a href="https://github.com/KevinXu0718">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3200&pause=1000&color=009999&center=true&vCenter=true&width=740&height=65&lines=Senior+Software+Engineer;Full-Stack+%26+Cloud+Engineering;Backend+%26+Distributed+Systems;Building+Reliable+Software+at+Scale" alt="Typing introduction: Senior Software Engineer, Full-Stack and Cloud Engineering, Backend and Distributed Systems" />
+</a>Backend Engineering · Cloud Infrastructure · Full-Stack Development · AI-Assisted Workflows
 
-# Kevin Xu
-### Senior Software Engineer | Backend, Distributed Systems & Cloud
 
-Senior Software Engineer with 10+ years of experience building production applications, backend services, distributed systems, and cloud infrastructure.
 
-I enjoy solving complex engineering problems, designing maintainable architectures, improving system performance, and turning ideas into production-ready software.
+</div>💫 About Me
+I'm a Senior Software Engineer with 10+ years of experience building production software across backend systems, web applications, and cloud infrastructure.
 
-### Core Engineering Skills
+My background includes engineering work at Netflix, Amazon Web Services (AWS), and Cisco. I enjoy getting into the details of a problem—whether that means improving a slow SQL query, designing a dependable API, or making a deployment process more repeatable.
 
-- **Backend:** Python, Java, Go, Node.js, C#/.NET
-- **Frontend:** React, Next.js, TypeScript, JavaScript
-- **Cloud & Infrastructure:** AWS, Docker, Kubernetes, Terraform
-- **Databases:** PostgreSQL, MySQL, Redis, SQL Server
-- **Distributed Systems:** Kafka, Microservices, Event-Driven Architecture
-- **Engineering Practices:** CI/CD, Automated Testing, System Design, Observability
+I care about clean design, practical tradeoffs, performance, and maintainable code. I also use Claude Code, Cursor, and GitHub Copilot to accelerate development while keeping architectural decisions, code reviews, and production readiness in engineers' hands.
+🛠️ Skills
+- 📌 Languages: C#, Java, Python, TypeScript, JavaScript, Go
+- 📌 Front-End: React, Angular, Blazor, HTML, CSS
+- 📌 Back-End: .NET / .NET Core, Node.js, Express, Spring, REST APIs, Microservices
+- 📌 Cloud & DevOps: AWS, Lambda, API Gateway, Step Functions, S3, CloudFormation, CI/CD, Git
+- 📌 Data & Databases: SQL Server, MySQL, SQL tuning, data pipelines, AWS Glue
+- 📌 Distributed Systems: Event-driven workflows, asynchronous processing, system integration
+- 📌 Mobile: Swift, SwiftUI, Kotlin, Jetpack Compose
+- 📌 AI Development Tools: Claude Code, Cursor, GitHub Copilot
+- 📌 Engineering Practices: System design, automated testing, code reviews, performance profiling, production debugging
+🤝 When Working With Me, You Can Expect
+✅ Ownership from design through delivery
+✅ Clear communication and thoughtful collaboration
+✅ Attention to performance, correctness, and edge cases
+✅ Practical solutions instead of unnecessary complexity
+✅ A strong focus on code quality and long-term maintainability
 
-### Technology Stack
+If you're building something interesting, I'd love to connect.
+💻 Languages and Tools
+Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,py,ts,js,go,swift,kotlin&theme=dark" alt="C sharp, Java, Python, TypeScript, JavaScript, Go, Swift, Kotlin" />
+</p>
+Frameworks & Front-End
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,nodejs,express,html,css&theme=dark" alt=".NET, React, Angular, Node.js, Express, HTML, CSS" />
+</p>
+Cloud, Data & Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,mysql,git,github,githubactions,docker,vscode&theme=dark" alt="AWS, MySQL, Git, GitHub, GitHub Actions, Docker, VS Code" />
+</p>💚 My Favorite Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-### Engineering Focus
 
-- Designing scalable backend services and REST APIs
-- Building event-driven and distributed applications
-- Cloud infrastructure and deployment automation
-- Database design and performance optimization
-- AI integrations and LLM-powered applications
-- Writing maintainable, tested, production-ready code
 
-### Current Interests
 
-Distributed systems, cloud-native architecture, AI engineering, developer productivity, and infrastructure automation.
 
-### Connect
 
-- [LinkedIn](https://www.linkedin.com/)
-- [Portfolio](https://www.kevinjxu.com)
-- [GitHub](https://github.com/KevinXu0718)
+
+
+
+🎯 What I Like Building
+- Reliable services: APIs, backend systems, and integrations that hold up in production.
+- Faster data paths: Query and index improvements grounded in profiling and real workloads.
+- Cloud-native workflows: Serverless services, asynchronous processing, and repeatable deployments.
+- Useful products: Clean interfaces backed by solid engineering and thoughtful user experiences.
+<div align="center">Let's build something useful.
+
+Portfolio · LinkedIn · GitHub
+</div>
