@@ -33,22 +33,6 @@
 
 ---
 
-<div align="center">
-
-## 🐙 GitHub Languages Card
-
-<a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-  <img src="https://github-languages-card.vercel.app/api/top-languages?username=KevinXu0718&theme=darkNeon" width="760" alt="GitHub Languages Card for KevinXu0718" />
-</a>
-
-<p><b>A live snapshot of the languages in my public GitHub repositories.</b><br/>
-<sub>Repository language percentages reflect public code, not a ranking of professional experience.</sub></p>
-
-<a href="https://github.com/VIDAKHOSHPEY22/github-languages-card"><img src="https://img.shields.io/badge/Languages_Card-SOURCE_CODE-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Languages Card project" /></a>
-<a href="https://github-languages-card.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Open-FF1493?style=for-the-badge&logo=vercel&logoColor=white" alt="Languages Card demo" /></a>
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
