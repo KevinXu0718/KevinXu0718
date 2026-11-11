@@ -2,9 +2,6 @@
 <a href="https://github.com/KevinXu0718">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3200&pause=1000&color=009999&center=true&vCenter=true&width=740&height=65&lines=Senior+Software+Engineer;Full-Stack+%26+Cloud+Engineering;Backend+%26+Distributed+Systems;Building+Reliable+Software+at+Scale" alt="Typing introduction: Senior Software Engineer, Full-Stack and Cloud Engineering, Backend and Distributed Systems" />
 </a>Backend Engineering · Cloud Infrastructure · Full-Stack Development · AI-Assisted Workflows
-
-
-
 </div>💫 About Me
 I'm a Senior Software Engineer with 10+ years of experience building production software across backend systems, web applications, and cloud infrastructure.
 
